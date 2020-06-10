@@ -1,4 +1,4 @@
-# Curso Alura Imersão Java Script Game Dev
+# Curso Alura Imersão Javascript Game Dev
 Na Imersão JavaScript GameDev você vai criar seu próprio game
 
 ### Dias de publicação das aulas
