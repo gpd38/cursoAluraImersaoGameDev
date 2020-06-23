@@ -12,13 +12,13 @@ class Cenario{
   }
   
   move() {
-    this.x1=this.x1-this.velocidade;
-    this.x2=this.x2-this.velocidade;
+    this.x1 = this.x1 - this.velocidade;
+    this.x2 = this.x2 - this.velocidade;
     
-    if(this.x1 <-width){
+    if(this.x1 < -width){
       this.x1=width;
     }
-    if(this.x2 <-width){
+    if(this.x2 < -width){
       this.x2=width;
     }
   } 
