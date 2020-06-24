@@ -60,14 +60,14 @@ Aula|Dia
 ### Links dos materiais no alura
 - [Material Aula01 - Primeiras animações e trilha sonora](https://www.alura.com.br/imersao-gamedev-javascript/aula01-game-personagem-animacao?utm_campaign=imersao_js_gamedev_aula_01&utm_medium=email&utm_source=RD+Station)
 - [Material Aula02 - Fluxo de vida, missão e falha](https://www.alura.com.br/imersao-gamedev-javascript/aula02-inimigo-movimentacao-e-gravidade?utm_campaign=imersao_js_gamedev_aula_02&utm_medium=email&utm_source=RD+Station)
-- [Material Aula03 - ](#)
+- [Material Aula03 - Adicionando Novos Inimigos e Pontuação](https://www.alura.com.br/imersao-gamedev-javascript/aula03-mapas-texto-e-power-ups?utm_campaign=imersao_js_gamedev_aula_03&utm_medium=email&utm_source=RD+Station)
 - [Material Aula04 - ](#)
 - [Material Aula05 - ](#)
 
 ### Links das vídeo aulas
 - [Aula01 - Primeiras animações e trilha sonora](https://www.youtube.com/watch?v=8glxH8aS7ko)
 - [Aula02 - Fluxo de vida, missão e falha](https://www.youtube.com/watch?v=tlkOFTWIrCo)
-- [Aula03 - ](#)
+- [Aula03 - Adicionando Novos Inimigos e Pontuação](https://www.youtube.com/watch?v=IuVlkxZd4GE)
 - [Aula04 - ](#)
 - [Aula05 - ](#)
 
@@ -90,6 +90,13 @@ Aula|Dia
 	- Juliana
 		- Faça uma tela de game over mais elaborada, explicando o que aconteceu com a personagem e porque a pessoa perdeu.
 - Aula 03
+	- Paulo
+		- Crie uma tela inicial para o jogo.
+		- Faça com que moedas apareçam durante o jogo e, conforme a Hipsta as pega, ela acumula mais pontos.
+	- Guilherme
+		- Configure o jogo para que tenhamos apenas um inimigo aparecendo de cada vez.
+	- Juliana
+		- Melhorar a colisão da Hipsta.
 - Aula 04
 - Aula 05
 
@@ -98,10 +105,10 @@ Aula|Dia
 	- [Codepen.IO](https://codepen.io/gpd38/pen/LYGyYye?editors=0010)
 	- [P5js](https://editor.p5js.org/gpd38/sketches/EWkW1cKJJ)
 	- [História](https://github.com/gpd38/cursoAluraImersaoJavaScriptGameDev/wiki/historia)
-- [Solução Aula02 - ](#)
-- [Solução Aula03 - ](#)
-- [Solução Aula04 - ](#)
-- [Solução Aula05 - ](#)
+- [Solução Aula02 - Fluxo de vida, missão e falha](#)
+- [Solução Aula03 - Adicionando Novos Inimigos e Pontuação](#)
+- [Solução Aula04  ](#)
+- [Solução Aula05  ](#)
 
 ### Fórum (Material/Geral/Dúvidas/Resultado)
 - [Fórum de discussão - Discord](https://discord.com/invite/9JVnPhd)
@@ -114,16 +121,19 @@ Aula|Dia
 ### Informações sobre os palestrantes/participantes
 
 Paulo Silveira
+
 	- [Twitter](https://twitter.com/paulo_caelum)
   	- [Github](https://github.com/peas)
   	- [Linkedin](https://www.linkedin.com/in/paulosilveira/)
 
 Juliana Negreiros
+
   	- [Twitter](https://twitter.com/juunegreiros)
   	- [Github](https://github.com/juunegreiros)
   	- [Linkedin](https://www.linkedin.com/in/juliananegreiros/)
   
 Guilherme Lima
+
   	- [Twitter](https://twitter.com/guilhermebzlima)
   	- [Linkedin](https://www.linkedin.com/in/guilherme-lima-458925178/)
 
