@@ -39,9 +39,16 @@ jogo
 │   	  ├── reino-piangsun.jpg
 │   	  └── troll.png
 ├── js
+│   ├── animacao.js
 │   ├── cenario.js
+│   ├── inimigo.js
+│   ├── jogo.js
+│   ├── load.js
 │   ├── personagem.js
-│   └── sketch.js
+│   ├── pontuacao.js
+│   ├── sketch.js
+│   ├── telaInicial
+│   └── variaveis.js
 ├── som
 │   ├── somPulo.mp3
 │   └── trilha_jogo.mp3
@@ -62,14 +69,14 @@ Aula|Dia
 - [Material Aula02 - Fluxo de vida, missão e falha](https://www.alura.com.br/imersao-gamedev-javascript/aula02-inimigo-movimentacao-e-gravidade?utm_campaign=imersao_js_gamedev_aula_02&utm_medium=email&utm_source=RD+Station)
 - [Material Aula03 - Adicionando Novos Inimigos e Pontuação](https://www.alura.com.br/imersao-gamedev-javascript/aula03-mapas-texto-e-power-ups?utm_campaign=imersao_js_gamedev_aula_03&utm_medium=email&utm_source=RD+Station)
 - [Material Aula04 - Aprimorando a frequencia de inimigos e criando a tela inicial](https://www.alura.com.br/imersao-gamedev-javascript/aula04-estado-e-cenas)
-- [Material Aula05 - ](#)
+- [Material Aula05 - Vidas e mapa](https://www.alura.com.br/imersao-gamedev-javascript/aula05-vidas-e-mapas?utm_campaign=imersao_js_gamedev_aula_05&utm_medium=email&utm_source=RD+Station)
 
 ### Links das vídeo aulas
 - [Aula01 - Primeiras animações e trilha sonora](https://www.youtube.com/watch?v=8glxH8aS7ko)
 - [Aula02 - Fluxo de vida, missão e falha](https://www.youtube.com/watch?v=tlkOFTWIrCo)
 - [Aula03 - Adicionando Novos Inimigos e Pontuação](https://www.youtube.com/watch?v=IuVlkxZd4GE)
 - [Aula04 - Aprimorando a frequencia de inimigos e criando a tela inicial](https://www.youtube.com/watch?v=2nETUc4MCZo)
-- [Aula05 - ](#)
+- [Aula05 - Vidas e mapa](https://www.youtube.com/watch?v=HD1knuq2v2g)
 
 ### Desafios e Jogos
 - Aula 01 
@@ -103,16 +110,19 @@ Aula|Dia
 		- Criar uma segunda fase, depois de ter atingido X pontos ou passado N inimigos
 		- Quer ir realmente longe: a passagem de fase poderia ser feita de forma transparente: o novo background começa a aparecer, mas encaixando no background antigo. Entao voce precisa achar imagens de background que se encaixem e que, duas ou tres passadas de tela depois, possa levar a Hipsta de uma floresta a um deserto.
 - Aula 05
+	- Paulo
+		- Crie a história do seu jogo através de várias cenas diferentes, por exemplo: qual a missão da Hipsta? O que acontece se ela não chegar onde precisa?
+		- [Submeta seu jogo](https://docs.google.com/forms/d/e/1FAIpQLSfl_rzrshj4jgSeB5cr2ZXyHCBRJjAOjxSRTmm0_z6aDIJgWQ/viewform) para participar da competição dos melhores! Teremos uma Live na terça feira.
 
 ### Solução dos desafios
 - Solução Aula01 - Primeiras animações e trilha sonora
 	- [Codepen.IO](https://codepen.io/gpd38/pen/LYGyYye?editors=0010)
 	- [P5js](https://editor.p5js.org/gpd38/sketches/EWkW1cKJJ)
 	- [História](https://github.com/gpd38/cursoAluraImersaoJavaScriptGameDev/wiki/historia)
-- [Solução Aula02 - Fluxo de vida, missão e falha](#)
-- [Solução Aula03 - Adicionando Novos Inimigos e Pontuação](#)
-- [Solução Aula04 - Aprimorando a frequencia de inimigos e criando a tela inicial](#)
-- [Solução Aula05  ](#)
+- Solução Aula02 - Fluxo de vida, missão e falha
+- Solução Aula03 - Adicionando Novos Inimigos e Pontuação
+- Solução Aula04 - Aprimorando a frequencia de inimigos e criando a tela inicial
+- Solução Aula05 - Vidas e mapa
 
 ### Fórum (Material/Geral/Dúvidas/Resultado)
 - [Fórum de discussão - Discord](https://discord.com/invite/9JVnPhd)
