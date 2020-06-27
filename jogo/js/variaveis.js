@@ -59,7 +59,7 @@ const matrizInimigo = [
   [104, 626],
   [208, 626],
   [312, 626],
-]
+];
 const matrizPersonagem = [
   [0, 0],
   [220, 0],
@@ -77,7 +77,7 @@ const matrizPersonagem = [
   [220, 810],
   [440, 810],
   [660, 810],
-]
+];
 const matrizInimigoGrande = [
   [0, 0],
   [400, 0],
@@ -107,7 +107,7 @@ const matrizInimigoGrande = [
   [0, 2000],
   [400, 2000],
   [800, 2000],
-]
+];
 const matrizInimigoVoador = [
   [0, 0],
   [200, 0],
@@ -125,6 +125,42 @@ const matrizInimigoVoador = [
   [200, 600],
   [400, 600],
   [0, 750],
-]
+];
 
 const inimigos = []
+
+const baseCollisionPolygonPersonagem = [
+  [70, 5],
+  [105, 50],
+  [90, 110],
+  [70, 134],
+  [30, 134],
+  [5, 110],
+  [5, 20]
+];
+const baseCollisionPolygonInimigo = [
+  [5, 25],
+  [15, 6],
+  [52, 6],
+  [52, 45],
+  [15, 45]
+];
+const baseCollisionPolygonInimigoGrande = [
+  [20, 80],
+  [80, 100],
+  [110, 20],
+  [150,20],
+  [195, 130],
+  [155, 170],
+  [120, 170],
+  [20, 140]
+];
+const baseCollisionPolygonInimigoVoador = [
+  [15, 20],
+  [60, 10],
+  [100, 20],
+  [100, 60],
+  [60, 70],
+  [30, 70],
+  [15, 60]
+];

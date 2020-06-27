@@ -1,5 +1,5 @@
 class Animacao {
-  constructor(matriz, imagem, x, variacaoY, largura, altura, larguraSprite, alturaSprite) {
+  constructor(matriz, imagem, x, variacaoY, largura, altura, larguraSprite, alturaSprite, controleColisao) {
     this.matriz = matriz;
     this.imagem = imagem;
     this.largura = largura;
@@ -9,6 +9,7 @@ class Animacao {
     this.y = height - this.altura - this.variacaoY;
     this.larguraSprite = larguraSprite;
     this.alturaSprite = alturaSprite;
+    this.controleColisao = controleColisao;
 
     this.frameAtual = 0;
   }
